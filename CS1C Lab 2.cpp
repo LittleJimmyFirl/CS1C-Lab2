@@ -30,7 +30,7 @@ int hello1Function(string name1)
 * 
 */#include <iostream>
 usingnamespace std;
-inthello2Function(string name2)
+int hello2Function(string name2)
 {
 	cout << "hello World " << name2 << endl;
 	return 0;
